@@ -1,4 +1,4 @@
-# Example Redirecting Children Component To Specific Custom Parent Component in Qt/QML
+# Redirecting Children Component To Specific Custom Parent Component in Qt/QML
 
 ## About
 
@@ -9,3 +9,4 @@ Let's say we have a complex custom screen component and we want to select a Layo
 default property alias content: <COMPONENT_ID>.data
 ```
 
+Check the code for more details
