@@ -10,3 +10,5 @@ default property alias content: <COMPONENT_ID>.data
 ```
 
 Check the code for more details
+
+There is also another example at [Components Example in Qt / QML](https://github.com/LeonnardoVerol/example-components-qt-qml)
